@@ -1,0 +1,28 @@
+name: MustardSeedSoftware
+favicon: null
+layout_spectrum: 0.720526211662218
+typography_spectrum: 0.1481904669199139
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.8493864077609032
+  lightness: 0.37105323281139135
+  saturation: 0.22864011442288756
+  rhythmicContrast: 0.43973107915371656
+purpose: []
