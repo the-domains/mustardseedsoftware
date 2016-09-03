@@ -1,5 +1,30 @@
-title: 'Mustard Seed Software, LLC'
-purpose: []
+typography_spectrum: 0.1481904669199139
+color:
+  saturation: 0.2286401144228876
+  brandStrength: 0.8493864077609032
+  rhythmicContrast: 0.4397310791537166
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  lightness: 0.3710532328113914
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.2873254
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+name: MustardSeedSoftware
+cta:
+  bucket: null
+  version: null
+  domain: null
+favicon: null
 collections:
   - index:
       path: /
@@ -12,30 +37,6 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-color:
-  saturation: 0.2286401144228876
-  brandStrength: 0.8493864077609032
-  rhythmicContrast: 0.4397310791537166
-  brandColors:
-    - '#B8B42D'
-    - '#697A21'
-    - '#FFFCE8'
-    - '#3E363F'
-    - '#DD403A'
-  lightness: 0.3710532328113914
-cta:
-  bucket: null
-  version: null
-  domain: null
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-name: MustardSeedSoftware
-favicon: null
-opengraph:
-  image: null
-  type: null
-  appId: null
-typography_spectrum: 0.1481904669199139
-layout_spectrum: 0.2873254
+title: 'Mustard Seed Software, LLC'
+description: Small software with big impact.
+purpose: []
